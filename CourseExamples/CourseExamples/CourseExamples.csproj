@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Exercises\Exercise1.cs" />
+    <Compile Include="Exercises\Exercise2.cs" />
     <Compile Include="Interfaces\IExercise.cs" />
     <Compile Include="ExerciseLoader.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
